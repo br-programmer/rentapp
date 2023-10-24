@@ -1,0 +1,9 @@
+{
+  "joinedOn": "Joined on {{date}}",
+  "phone": "Phone",
+  "typeYourPhone": "Type your phone",
+  "email": "Email",
+  "typeYourEmail": "Type your email",
+  "update": "Update",
+  "newAddress": "New Address"
+}

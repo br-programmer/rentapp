@@ -1,0 +1,9 @@
+{
+  "joinedOn": "Se unió en {{date}}",
+  "phone": "Teléfono",
+  "typeYourPhone": "Ingresa tu teléfono",
+  "email": "Correo electrónico",
+  "typeYourEmail": "Ingresa tu correo electrónico",
+  "update": "Actualizar",
+  "newAddress": "Nueva dirección"
+}
